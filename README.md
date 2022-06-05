@@ -14,6 +14,8 @@ It just makes sense for an executable `README` to be doing something like [Liter
 
 .
 
+[HELLO]: <http://asdf.com/> asdf. the best website.
+
 [TASK]: #compile <<"."
 # Compiling From Source
     # There's probably a bunch of .o files to get rid of.
