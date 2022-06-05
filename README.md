@@ -32,6 +32,10 @@ just going to mention [HELLO] or something.
 
 [HELLO6]: asdf fdsa (This may be the most platform independent comment)
 
+[HELLO7]: asdf (This may be the most platform independent comment
+it has a newline in it tho... pretty cool.
+Good opportunity for stuff.)
+
 [TASK]: #compile <<"."
 # Compiling From Source
     # There's probably a bunch of .o files to get rid of.
