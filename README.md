@@ -20,6 +20,14 @@ just going to mention [HELLO] or something.
 
 [//]: # (This may be the most platform independent comment)
 
+[HELLO1]: # (This may be the most platform independent comment)
+
+[HELLO2]: #foo (This may be the most platform independent comment)
+
+[HELLO3]: #foo This may be the most platform independent comment
+
+[HELLO4]: #foo (inner) This may be the most platform independent comment? this is outside the parens.
+
 [TASK]: #compile <<"."
 # Compiling From Source
     # There's probably a bunch of .o files to get rid of.
