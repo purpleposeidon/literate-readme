@@ -14,7 +14,7 @@ It just makes sense for an executable `README` to be doing something like [Liter
 
 .
 
-[TASK]: compile <<"."
+[TASK]: #compile <<"."
 # Compiling From Source
     # There's probably a bunch of .o files to get rid of.
     make clean
@@ -25,7 +25,7 @@ It just makes sense for an executable `README` to be doing something like [Liter
 .
 
 
-[TASK]: package <<"."
+[TASK]: #package <<"."
 # Packaging
     # First, make sure the repo is in a clean state.
     make clean
@@ -37,9 +37,10 @@ It just makes sense for an executable `README` to be doing something like [Liter
     make package
 .
 
-[COMMAND]: report_an_issue xdg-open "https://github.com/purpleposeidon/literate-readme/issues/new/choose"
+[COMMAND]: #report_an_issue xdg-open "https://github.com/purpleposeidon/literate-readme/issues/new/choose"
 
 [NOTE]: - <<"."
+
 ... Right, that's that.
 
 Now you should look at the source of this file, and see [`./literate-executable-readme.sh`](./literate-executable-readme.sh).
