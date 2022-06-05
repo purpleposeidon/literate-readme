@@ -28,6 +28,10 @@ just going to mention [HELLO] or something.
 
 [HELLO4]: #foo (inner) This may be the most platform independent comment? this is outside the parens.
 
+[HELLO5]: asdf (This may be the most platform independent comment)
+
+[HELLO6]: asdf fdsa (This may be the most platform independent comment)
+
 [TASK]: #compile <<"."
 # Compiling From Source
     # There's probably a bunch of .o files to get rid of.
