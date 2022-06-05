@@ -14,7 +14,11 @@ It just makes sense for an executable `README` to be doing something like [Liter
 
 .
 
+just going to mention [HELLO] or something.
+
 [HELLO]: <http://asdf.com/> asdf. the best website.
+
+[//]: # (This may be the most platform independent comment)
 
 [TASK]: #compile <<"."
 # Compiling From Source
